@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>MakeDxfUpdatePartData</name>
+  </assembly>
+  <members>
+    <member name="T:MakeDxfUpdatePartData.MakeDxfExportPartDataClass">
+      <summary>
+            Основной класс библиотеки
+            </summary>
+    </member>
+    <member name="M:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.#ctor">
+      <summary>
+            Initializes a new instance of the <see cref="T:MakeDxfUpdatePartData.MakeDxfExportPartDataClass" /> class.
+            </summary>
+    </member>
+    <member name="M:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.CreateFlattPatternUpdateCutlistAndEdrawing(System.String,System.String@)">
+      <summary>
+            Creates the flatt pattern update cutlist and edrawing.
+            </summary>
+      <param name="filePath">The file path.</param>
+      <param name="eDrwFileName">Name of the e DRW file.</param>
+      <returns></returns>
+    </member>
+    <member name="F:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.MessageToUsr">
+      <summary>
+            The message to user
+            </summary>
+    </member>
+    <member name="P:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.PdmBaseName">
+      <summary>
+            Gets or sets the name of the PDM base. For example: "Vents-PDM"
+            </summary>
+    </member>
+    <member name="M:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.RegistrationPdm(System.String)">
+      <summary>
+            Registrations in PDM.
+            </summary>
+      <param name="eDrwFileName2">Name of the eDRW file.</param>
+    </member>
+    <member name="M:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SaveDrwAsPdf(System.String,System.String@)">
+      <summary>
+            Saves the DRW as PDF.
+            </summary>
+      <param name="filePath">The file path.</param>
+      <param name="pdfFilePath">The PDF file path.</param>
+    </member>
+    <member name="M:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SearchDoc(System.String,MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType)">
+      <summary>
+            Searches the document.
+            </summary>
+      <param name="filePath">The file path.</param>
+      <param name="swDocType">Type of the sw document.</param>
+      <returns>
+        <markup>
+          <include item="SMCMissingTag">
+            <parameter>returns</parameter>
+            <parameter>M:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SearchDoc(System.String,MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType)</parameter>
+          </include>
+        </markup>
+      </returns>
+    </member>
+    <member name="T:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType">
+      <summary>
+            Тип документа для поиска. 
+            </summary>
+    </member>
+    <member name="F:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType.SwDocNone">
+      <summary>
+            Точное имя файла для поиска
+            </summary>
+    </member>
+    <member name="F:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType.SwDocPart">
+      <summary>
+            Имя файла с расширением .sldprt
+            </summary>
+    </member>
+    <member name="F:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType.SwDocAssembly">
+      <summary>
+            Имя файла с расширением .sldasm
+            </summary>
+    </member>
+    <member name="F:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType.SwDocDrawing">
+      <summary>
+            Имя файла с расширением .slddrw
+            </summary>
+    </member>
+    <member name="F:MakeDxfUpdatePartData.MakeDxfExportPartDataClass.SwDocType.SwDocLike">
+      <summary>
+            По схожести
+            </summary>
+    </member>
+  </members>
+</doc>

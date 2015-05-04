@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeEprtTaskAddin", "MakeEprtTaskAddin\MakeEprtTaskAddin.csproj", "{463594D7-E376-4482-A55E-39BB87BAC344}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463594D7-E376-4482-A55E-39BB87BAC344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463594D7-E376-4482-A55E-39BB87BAC344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463594D7-E376-4482-A55E-39BB87BAC344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463594D7-E376-4482-A55E-39BB87BAC344}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

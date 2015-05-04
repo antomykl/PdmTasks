@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<doc>
+  <assembly>
+    <name>ExportDataAddin</name>
+  </assembly>
+  <members>
+    <member name="T:ExportDataAddin.ExportSwData">
+      <summary>
+            Класс для выгрузки разверток, данных деталей в базу, сохранения чертежей в PDF...
+            </summary>
+    </member>
+    <member name="M:ExportDataAddin.ExportSwData.#ctor">
+      <summary>
+        <markup>
+          <include item="SMCAutoDocConstructor">
+            <parameter>ExportDataAddin.ExportSwData</parameter>
+          </include>
+        </markup>
+      </summary>
+    </member>
+    <member name="M:ExportDataAddin.ExportSwData.GetAddInInfo(EdmLib.EdmAddInInfo@,EdmLib.IEdmVault5,EdmLib.IEdmCmdMgr5)">
+      <summary>
+            Gets the add in information.
+            </summary>
+      <param name="poInfo">The po information.</param>
+      <param name="poVault">The po vault.</param>
+      <param name="poCmdMgr">The po command MGR.</param>
+    </member>
+    <member name="M:ExportDataAddin.ExportSwData.OnCmd(EdmLib.EdmCmd@,System.Array@)">
+      <summary>
+            Called when [command].
+            </summary>
+      <param name="poCmd">The po command.</param>
+      <param name="ppoData">The ppo data.</param>
+    </member>
+  </members>
+</doc>

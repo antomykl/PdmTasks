@@ -1,0 +1,10 @@
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\MakeEprtTaskAddin.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\MakeEprtTaskAddin.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\obj\Debug\MakeEprtTaskAddin.csprojResolveAssemblyReference.cache
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\obj\Debug\MakeEprtTaskAddin.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\obj\Debug\MakeEprtTaskAddin.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\MakeDxfUpdatePartData.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\NLog.dll
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\MakeDxfUpdatePartData.pdb
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\NLog.xml
+C:\Users\kb81.VENTS\Documents\Visual Studio 2012\Projects\MakeEprtTaskAddin\MakeEprtTaskAddin\bin\Debug\Interop.EdmLib.dll
